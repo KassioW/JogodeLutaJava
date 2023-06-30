@@ -62,7 +62,7 @@ public class Luta {
            
            
        } else {
-           System.out.println("A lutea não pode acontecer");
+           System.out.println("A luta não pode acontecer");
        }
    }
    
